@@ -1,0 +1,2 @@
+A buit-in data type that stores set of values;
+can store elements of any data type;(float , integer ,  string) ;
