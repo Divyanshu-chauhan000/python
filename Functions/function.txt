@@ -1,1 +1,16 @@
 Function is group of statements performing the specific task
+
+Function definition : define what actually the function will do.
+Function  call : call the function to execute the function.
+
+types of  function:
+1. Built-in Function :- Already exist in python and can be used directly.
+eg: print(), len(), max(), min()
+2.User defined Function :- function defined by user.
+eg : avg (), sum ()
+
+Function with Arguments
+
+def greet(name):
+    print("Hello, Good Morning"+ " " +name)
+greet("Dev")
