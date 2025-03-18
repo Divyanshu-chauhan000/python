@@ -1,0 +1,6 @@
+A file is  data stored in a storage device. A python program  can talk to file by reading content from it and writing to it.
+
+Two types file :
+1. text file (.txt)
+2. Binary file (.jpg , .mp3)
+
